@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/guosai/data/1.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/guosai/data/data1.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/guosai/data/data3.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/测试赛2/code/1.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/测试赛2/code/e1.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/测试赛2/data/unit1.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/问题1/RBF.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/问题1/first_data.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/问题1/first_test2_data.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/问题1/first_test_data.csv" charset="GBK" />
+  </component>
+</project>

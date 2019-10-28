@@ -1,0 +1,1 @@
+[input,~,~]=xlsread('C:\Users\ouguangji\Desktop\数模\深圳杯支撑材料\支撑材料\数据文件\居民个体.csv');[output,~,~]=xlsread('C:\Users\ouguangji\Desktop\数模\深圳杯支撑材料\支撑材料\数据文件\居民个体指数.csv');disp(input);disp(output);
